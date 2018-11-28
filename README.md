@@ -1,2 +1,2 @@
 # accountTransfer
-Hyperledger Fabric account Transfer app
+Develop account transfer using golang
